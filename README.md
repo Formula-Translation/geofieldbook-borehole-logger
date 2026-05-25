@@ -1,4 +1,4 @@
-# Geofieldbook
+# Geofieldbook 2024
 
 Transforming traditional borehole investigations into a connected digital geotechnical workflow — from field surveys to subsurface intelligence.
 > A next-generation digital borehole platform connecting field operations, laboratory analysis, engineering review, and subsurface visualization in one unified system.
