@@ -1,13 +1,13 @@
 # Geofieldbook
 
 Transforming traditional borehole investigations into a connected digital geotechnical workflow — from field surveys to subsurface intelligence.
-
+> A next-generation digital borehole platform connecting field operations, laboratory analysis, engineering review, and subsurface visualization in one unified system.
 
 <p align="center">
   <img src="./screenshots/00.png" width="900"/>
 </p>
 
-> A next-generation digital borehole platform connecting field operations, laboratory analysis, engineering review, and subsurface visualization in one unified system.
+
 
 ---
 
