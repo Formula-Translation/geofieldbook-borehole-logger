@@ -1,11 +1,9 @@
 # Geofieldbook
 
 Transforming traditional borehole investigations into a connected digital geotechnical workflow — from field surveys to subsurface intelligence.
-|---|---|
-| ![](./screenshots/00.png) | ![](./screenshots/01.png) |
-| ![](./screenshots/02.png) | ![](./screenshots/03.png) |
-| ![](./screenshots/04.png) | ![](./screenshots/05.png) |
-| ![](./screenshots/06.png) |  |
+
+
+| ![](./screenshots/00.png) | 
 
 > A next-generation digital borehole platform connecting field operations, laboratory analysis, engineering review, and subsurface visualization in one unified system.
 
@@ -108,19 +106,13 @@ Digital Borehole Archive & Reporting
 
 ---
 
-## Screenshots
 
-### Dashboard
-_Add screenshot here_
+| | |
+|---|---|
+| ![](./screenshots/01.png) | ![](./screenshots/02.png) |
+| ![](./screenshots/03.png) | ![](./screenshots/04.png) |
+| ![](./screenshots/05.png) | ![](./screenshots/06.png) |
 
-### Borehole Visualization
-_Add screenshot here_
-
-### Soil Layer Profile
-_Add screenshot here_
-
-### Field Workflow
-_Add screenshot here_
 
 ---
 
